@@ -1,0 +1,17 @@
+version: 2
+
+jobs:
+  build:
+    docker:
+      - image: circleci/node:12.10.0
+    steps:
+      - run: echo "Hello World"
+
+workflows:
+  version: 2
+  skip:
+    jobs:
+      - build:
+          filters:
+            branches:
+              ignore: gh-pages
