@@ -1,0 +1,561 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "1": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      36,
+      1
+    ],
+    "2": [
+      0,
+      1,
+      4,
+      5,
+      7,
+      9,
+      2
+    ],
+    "common": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      36,
+      0
+    ],
+    "@site/src/pages/index.js": [
+      0,
+      1,
+      3
+    ],
+    "@theme/BlogListPage": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "@theme/BlogPostPage": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "@theme/BlogTagsListPage": [
+      0,
+      1,
+      6
+    ],
+    "@theme/BlogTagsPostsPage": [
+      0,
+      1,
+      2,
+      7
+    ],
+    "@theme/DocLegacyItem": [
+      0,
+      8
+    ],
+    "@theme/DocLegacyPage": [
+      0,
+      1,
+      2,
+      9
+    ],
+    "@site/blog/2019-05-29-hello-world.md?truncated=true": [
+      0,
+      10
+    ],
+    "@site/blog/2019-05-28-hola.md?truncated=true": [
+      0,
+      11
+    ],
+    "@site/blog/2019-05-29-hello-world.md": [
+      0,
+      12
+    ],
+    "@site/blog/2019-05-28-hola.md": [
+      0,
+      13
+    ],
+    "@site/blog/2019-05-30-welcome.md": [
+      0,
+      14
+    ],
+    "@site/blog/2019-05-30-welcome.md?truncated=true": [
+      0,
+      15
+    ],
+    "@site/docs/doc1.md": [
+      0,
+      16
+    ],
+    "@site/docs/doc2.md": [
+      0,
+      17
+    ],
+    "@site/docs/doc3.md": [
+      0,
+      18
+    ],
+    "@site/docs/mdx.md": [
+      0,
+      19
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-docs/docusaurus-docs-5c9.json": [
+      20
+    ],
+    "main": [
+      34,
+      21
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-blog/docusaurus-blog-b39.json": [
+      22
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-blog/docusaurus-blog-tags-docusaurus-55a.json": [
+      23
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-blog/docusaurus-blog-tags-facebook-8a1.json": [
+      24
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-blog/docusaurus-blog-tags-hello-b23.json": [
+      25
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-blog/docusaurus-blog-tags-hola-e03.json": [
+      26
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-blog/docusaurus-blog-welcome-edf.json": [
+      27
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-docs/docusaurus-docs-doc-1-e45.json": [
+      28
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-docs/docusaurus-docs-doc-2-521.json": [
+      29
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-docs/docusaurus-docs-doc-3-182.json": [
+      30
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-docs/docusaurus-docs-mdx-8b7.json": [
+      31
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-blog/docusaurus-blog-hola-3ff.json": [
+      32
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-blog/docusaurus-blog-hello-world-f02.json": [
+      33
+    ],
+    "runtime~main": [
+      21,
+      34
+    ],
+    "/mnt/v/__Codes__/Computerization/docusaurus/.docusaurus/docusaurus-plugin-content-blog/docusaurus-blog-tags-tags-8ca.json": [
+      35
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      36
+    ]
+  },
+  "assets": {
+    "0": {
+      "js": [
+        {
+          "file": "common.9248a2fdf517e2699682.js",
+          "hash": "d14180fda006dd87e1c9",
+          "publicPath": "/docusaurus/common.9248a2fdf517e2699682.js"
+        }
+      ]
+    },
+    "1": {
+      "css": [
+        {
+          "file": "1.196ce05925ea6d776920.css",
+          "hash": "4e86e9b0c38bfb2fcdec",
+          "publicPath": "/docusaurus/1.196ce05925ea6d776920.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "1.0625c04f92314bdf0a27.js",
+          "hash": "4e86e9b0c38bfb2fcdec",
+          "publicPath": "/docusaurus/1.0625c04f92314bdf0a27.js"
+        }
+      ]
+    },
+    "2": {
+      "css": [
+        {
+          "file": "2.702de9bbb01fe4f46fa1.css",
+          "hash": "0a4f2b3c7a0c79fea180",
+          "publicPath": "/docusaurus/2.702de9bbb01fe4f46fa1.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "2.ebb59a3d4f31bdc35022.js",
+          "hash": "0a4f2b3c7a0c79fea180",
+          "publicPath": "/docusaurus/2.ebb59a3d4f31bdc35022.js"
+        }
+      ]
+    },
+    "3": {
+      "css": [
+        {
+          "file": "component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css",
+          "hash": "76e7b58579ce856327d3",
+          "publicPath": "/docusaurus/component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---site-src-pages-index-jsc-4-f-f99.4128e3cbe85d6aea7b2c.js",
+          "hash": "76e7b58579ce856327d3",
+          "publicPath": "/docusaurus/component---site-src-pages-index-jsc-4-f-f99.4128e3cbe85d6aea7b2c.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "component---theme-blog-list-pagea-6-a-7ba.93e52c3fc974fa83dbac.js",
+          "hash": "5a496dbbd8fe4073ee66",
+          "publicPath": "/docusaurus/component---theme-blog-list-pagea-6-a-7ba.93e52c3fc974fa83dbac.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "component---theme-blog-post-pageccc-cab.9ca537c26a979cc93e6b.js",
+          "hash": "6cb5d546d10f70684eab",
+          "publicPath": "/docusaurus/component---theme-blog-post-pageccc-cab.9ca537c26a979cc93e6b.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "component---theme-blog-tags-list-page-01-a-d0b.942eaed71c845448c161.js",
+          "hash": "9d25b89a42bd939fe0d1",
+          "publicPath": "/docusaurus/component---theme-blog-tags-list-page-01-a-d0b.942eaed71c845448c161.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "component---theme-blog-tags-posts-page-687-b6c.565a4505e71c103a8652.js",
+          "hash": "347f66e7af184580a2bb",
+          "publicPath": "/docusaurus/component---theme-blog-tags-posts-page-687-b6c.565a4505e71c103a8652.js"
+        }
+      ]
+    },
+    "8": {
+      "css": [
+        {
+          "file": "component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
+          "hash": "d091bbedbfb7fb6e409c",
+          "publicPath": "/docusaurus/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---theme-doc-legacy-item-031-769.71c6d993c8ced831eaf0.js",
+          "hash": "d091bbedbfb7fb6e409c",
+          "publicPath": "/docusaurus/component---theme-doc-legacy-item-031-769.71c6d993c8ced831eaf0.js"
+        }
+      ]
+    },
+    "9": {
+      "css": [
+        {
+          "file": "component---theme-doc-legacy-page-9-e-7-ca5.3c38a2f40a51efdd72a0.css",
+          "hash": "2fe288ffca927e0ce01c",
+          "publicPath": "/docusaurus/component---theme-doc-legacy-page-9-e-7-ca5.3c38a2f40a51efdd72a0.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---theme-doc-legacy-page-9-e-7-ca5.3ddbcb159e2b21cdfbaf.js",
+          "hash": "2fe288ffca927e0ce01c",
+          "publicPath": "/docusaurus/component---theme-doc-legacy-page-9-e-7-ca5.3ddbcb159e2b21cdfbaf.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "content---docusaurus-blog-357-dae.15d46d15e0376c19f172.js",
+          "hash": "ed9c75e4af5abfe02f10",
+          "publicPath": "/docusaurus/content---docusaurus-blog-357-dae.15d46d15e0376c19f172.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "content---docusaurus-blog-8-e-9-d82.9d3fc68ae35c2f912058.js",
+          "hash": "6d6a50ad6f3d8e83101b",
+          "publicPath": "/docusaurus/content---docusaurus-blog-8-e-9-d82.9d3fc68ae35c2f912058.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "content---docusaurus-blog-hello-worldd-61-48e.6a3718f6bf68f97f44e6.js",
+          "hash": "7021ba74ae0256c66481",
+          "publicPath": "/docusaurus/content---docusaurus-blog-hello-worldd-61-48e.6a3718f6bf68f97f44e6.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "content---docusaurus-blog-holabdd-870.35fa4bc5f545f9dc892a.js",
+          "hash": "980ca5a272f02045de3f",
+          "publicPath": "/docusaurus/content---docusaurus-blog-holabdd-870.35fa4bc5f545f9dc892a.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "content---docusaurus-blog-welcome-286-299.024fca10382c679c5d45.js",
+          "hash": "cc1e229417c69e751501",
+          "publicPath": "/docusaurus/content---docusaurus-blog-welcome-286-299.024fca10382c679c5d45.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "content---docusaurus-blogaf-1-c20.bb6ca03808114352f40f.js",
+          "hash": "e4db72b4142a9947dd37",
+          "publicPath": "/docusaurus/content---docusaurus-blogaf-1-c20.bb6ca03808114352f40f.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "content---docusaurus-docs-doc-1-b-2-f-4a7.859584718bdaa54bfb99.js",
+          "hash": "22ab767bd7df9ed179bd",
+          "publicPath": "/docusaurus/content---docusaurus-docs-doc-1-b-2-f-4a7.859584718bdaa54bfb99.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "content---docusaurus-docs-doc-2-df-3-b68.0f4de127742e3704b767.js",
+          "hash": "15cdcadfd07e2de74742",
+          "publicPath": "/docusaurus/content---docusaurus-docs-doc-2-df-3-b68.0f4de127742e3704b767.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "content---docusaurus-docs-doc-3616-cb0.476e88af7819877c695d.js",
+          "hash": "fa94cce02f5caed11b93",
+          "publicPath": "/docusaurus/content---docusaurus-docs-doc-3616-cb0.476e88af7819877c695d.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "content---docusaurus-docs-mdxce-3-e1d.bfc59cd1b3de274f8f32.js",
+          "hash": "8d1679b1100f81a5e892",
+          "publicPath": "/docusaurus/content---docusaurus-docs-mdxce-3-e1d.bfc59cd1b3de274f8f32.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "docsMetadata---docusaurus-docs-9-dc-e35.8bff760a52339d75e8e5.js",
+          "hash": "4b3d4867f2d7a2cf5a82",
+          "publicPath": "/docusaurus/docsMetadata---docusaurus-docs-9-dc-e35.8bff760a52339d75e8e5.js"
+        }
+      ]
+    },
+    "21": {
+      "css": [
+        {
+          "file": "main.cf96eb97e7d5d7563dca.css",
+          "hash": "b00bb0326dd4416725a4",
+          "publicPath": "/docusaurus/main.cf96eb97e7d5d7563dca.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "main.2b3a0693eae4c57dc0fe.js",
+          "hash": "b00bb0326dd4416725a4",
+          "publicPath": "/docusaurus/main.2b3a0693eae4c57dc0fe.js"
+        }
+      ]
+    },
+    "22": {
+      "js": [
+        {
+          "file": "metadata---docusaurus-blog-2-c-0-4a3.380087a45e7b57b53a43.js",
+          "hash": "03814fd7861f4315c009",
+          "publicPath": "/docusaurus/metadata---docusaurus-blog-2-c-0-4a3.380087a45e7b57b53a43.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "metadata---docusaurus-blog-tags-docusaurusb-10-d5f.cfdcff0d2f36c588adf0.js",
+          "hash": "bf276f50c941b6b4fee7",
+          "publicPath": "/docusaurus/metadata---docusaurus-blog-tags-docusaurusb-10-d5f.cfdcff0d2f36c588adf0.js"
+        }
+      ]
+    },
+    "24": {
+      "js": [
+        {
+          "file": "metadata---docusaurus-blog-tags-facebook-961-e10.a83ee0bec44736d01267.js",
+          "hash": "7860f9d880ad6f070594",
+          "publicPath": "/docusaurus/metadata---docusaurus-blog-tags-facebook-961-e10.a83ee0bec44736d01267.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "metadata---docusaurus-blog-tags-hello-96-d-366.b9008d01229616323467.js",
+          "hash": "42eedbc7e626f9066075",
+          "publicPath": "/docusaurus/metadata---docusaurus-blog-tags-hello-96-d-366.b9008d01229616323467.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "metadata---docusaurus-blog-tags-hola-111-91a.21aed7af0b02035c0c71.js",
+          "hash": "32c1007fa862d34c4693",
+          "publicPath": "/docusaurus/metadata---docusaurus-blog-tags-hola-111-91a.21aed7af0b02035c0c71.js"
+        }
+      ]
+    },
+    "27": {
+      "js": [
+        {
+          "file": "metadata---docusaurus-blog-welcomed-3-a-4b5.f5b1eb1cb8fd32ebb0f5.js",
+          "hash": "09fd520bd18e38a00256",
+          "publicPath": "/docusaurus/metadata---docusaurus-blog-welcomed-3-a-4b5.f5b1eb1cb8fd32ebb0f5.js"
+        }
+      ]
+    },
+    "28": {
+      "js": [
+        {
+          "file": "metadata---docusaurus-docs-doc-1028-ee3.ff910924bd9722004938.js",
+          "hash": "fb47a8cb4187aed4af93",
+          "publicPath": "/docusaurus/metadata---docusaurus-docs-doc-1028-ee3.ff910924bd9722004938.js"
+        }
+      ]
+    },
+    "29": {
+      "js": [
+        {
+          "file": "metadata---docusaurus-docs-doc-2677-df9.bacdad0dcdf7778d70d0.js",
+          "hash": "ba3d509d0a4dff454c9e",
+          "publicPath": "/docusaurus/metadata---docusaurus-docs-doc-2677-df9.bacdad0dcdf7778d70d0.js"
+        }
+      ]
+    },
+    "30": {
+      "js": [
+        {
+          "file": "metadata---docusaurus-docs-doc-3-ea-2-aac.3d6d023e61cfa846d8a0.js",
+          "hash": "572f89181a7d6772116b",
+          "publicPath": "/docusaurus/metadata---docusaurus-docs-doc-3-ea-2-aac.3d6d023e61cfa846d8a0.js"
+        }
+      ]
+    },
+    "31": {
+      "js": [
+        {
+          "file": "metadata---docusaurus-docs-mdx-853-020.0497f79527e6a1aec52e.js",
+          "hash": "632cfabd6e95c0124ab7",
+          "publicPath": "/docusaurus/metadata---docusaurus-docs-mdx-853-020.0497f79527e6a1aec52e.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "nextItem---docusaurus-blog-hello-worlddcf-34a.0b9d2e70d9e0c53309ff.js",
+          "hash": "2f64c16aa5ccd1b68299",
+          "publicPath": "/docusaurus/nextItem---docusaurus-blog-hello-worlddcf-34a.0b9d2e70d9e0c53309ff.js"
+        }
+      ]
+    },
+    "33": {
+      "js": [
+        {
+          "file": "nextItem---docusaurus-blog-welcome-449-23e.5f5d27c9742ecd595ed6.js",
+          "hash": "40911f8c51feb9537852",
+          "publicPath": "/docusaurus/nextItem---docusaurus-blog-welcome-449-23e.5f5d27c9742ecd595ed6.js"
+        }
+      ]
+    },
+    "34": {
+      "js": [
+        {
+          "file": "runtime~main.02b4970be2e301bea6ff.js",
+          "hash": "44b3f08fbc37ef84770f",
+          "publicPath": "/docusaurus/runtime~main.02b4970be2e301bea6ff.js"
+        }
+      ]
+    },
+    "35": {
+      "js": [
+        {
+          "file": "tags---docusaurus-blog-tagseda-c64.96e7566fc3b6d2dba33c.js",
+          "hash": "129ec8defaf045d26650",
+          "publicPath": "/docusaurus/tags---docusaurus-blog-tagseda-c64.96e7566fc3b6d2dba33c.js"
+        }
+      ]
+    },
+    "36": {
+      "js": [
+        {
+          "file": "36.4ec494f42506558771ec.js",
+          "hash": "675959241844fbbe3023",
+          "publicPath": "/docusaurus/36.4ec494f42506558771ec.js"
+        }
+      ]
+    }
+  }
+}
